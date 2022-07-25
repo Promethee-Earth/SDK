@@ -2,7 +2,7 @@ import EndPoints from "./EndPoints.json";
 import Microservice from "./Microservice.js";
 
 class TaskingService {
-  static api = new Microservice(EndPoints.task);
+  static api = new Microservice(EndPoints.tasking);
 
   static async getTaskings() {
     try {

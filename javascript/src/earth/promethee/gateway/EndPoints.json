@@ -1,7 +1,7 @@
 {
-  "user": "http://peos.promethee.earth:8080/0.14",
-  "task": "http://peos.promethee.earth:8080/0.14",
-  "sentinel": "http://peos.promethee.earth:8080/0.14",
-  "area": "http://peos.promethee.earth:8080/0.14",
-  "image": "http://peos.promethee.earth:8080/0.14"
+  "user": "http://gateway.eios.promethee.earth:8080/0.15",
+  "task": "http://gateway.eios.promethee.earth:8080/0.15",
+  "sentinel": "http://gateway.eios.promethee.earth:8080/0.15",
+  "area": "http://gateway.eios.promethee.earth:8080/0.15",
+  "image": "http://gateway.eios.promethee.earth:8080/0.15"
 }

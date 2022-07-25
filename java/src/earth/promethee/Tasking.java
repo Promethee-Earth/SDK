@@ -1,6 +1,6 @@
 package earth.promethee;
 
-public class Task extends JSONObject {
+public class Tasking extends JSONObject {
 	String name;
 	double lonmin;
 	double latmin;
