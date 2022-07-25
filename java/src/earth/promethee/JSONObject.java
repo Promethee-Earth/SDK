@@ -1,5 +1,6 @@
 package earth.promethee;
 
 public abstract class JSONObject {
-	long id;
+	public String token;
+	public long id;
 }

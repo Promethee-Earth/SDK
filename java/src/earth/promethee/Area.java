@@ -1,8 +1,8 @@
 package earth.promethee;
 
-public class Area extends File {
-	double lonmin;
-	double latmin;
-	double lonmax;
-	double latmax;
+public class Area extends LibraryObject {
+	public double lonmin;
+	public double latmin;
+	public double lonmax;
+	public double latmax;
 }

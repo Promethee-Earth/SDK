@@ -1,9 +1,9 @@
 package earth.promethee;
 
-public class Image extends File {
-	int width;
-	int height;
-	String url;
-	String alturl;
-	String thumbnail;
+public class Image extends LibraryObject {
+	public int width;
+	public int height;
+	public String url;
+	public String alturl;
+	public String thumbnail;
 }
