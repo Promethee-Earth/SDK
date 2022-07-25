@@ -1,0 +1,7 @@
+{
+  "user": "http://peos.promethee.earth:8080/0.14",
+  "task": "http://peos.promethee.earth:8080/0.14",
+  "sentinel": "http://peos.promethee.earth:8080/0.14",
+  "area": "http://peos.promethee.earth:8080/0.14",
+  "image": "http://peos.promethee.earth:8080/0.14"
+}
